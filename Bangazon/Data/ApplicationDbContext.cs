@@ -47,8 +47,8 @@ namespace Bangazon.Data {
 
             ApplicationUser user = new ApplicationUser
             {
-                FirstName = "Admina",
-                LastName = "Straytor",
+                FirstName = "Admin",
+                LastName = "Istrator",
                 StreetAddress = "123 Infinity Way",
                 UserName = "admin@admin.com",
                 NormalizedUserName = "ADMIN@ADMIN.COM",
